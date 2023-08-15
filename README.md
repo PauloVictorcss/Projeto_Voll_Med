@@ -21,4 +21,4 @@
   <img align="center" alt="IntellijIDE" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div><br>
-<p>Este progeto ainda está em andamento.</p>
+<p>Este projeto ainda está em andamento.</p>
